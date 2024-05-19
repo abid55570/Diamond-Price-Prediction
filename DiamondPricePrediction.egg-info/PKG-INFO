@@ -5,3 +5,4 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: flask
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
